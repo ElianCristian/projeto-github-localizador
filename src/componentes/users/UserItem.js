@@ -16,7 +16,7 @@ const UserItem = ({user: { login, avatar_url, html_url}}) => {
                         Mais
                     </a>
                 </div>
-            </div>
+            </div> 
         )
 }
 
